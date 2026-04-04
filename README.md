@@ -1,2 +1,39 @@
-# Learning-DOM-Manipulation
-This repository showcases my consistent progress in learning JavaScript, including practical implementations, mini projects, and core concept exploration.
+# JavaScript Learning Journey 🚀
+
+This repository documents my daily progress while learning JavaScript through hands-on practice and mini projects.
+
+## 🎯 Goals
+
+* Master JavaScript fundamentals
+* Build strong DOM manipulation skills
+* Create real-world mini projects
+* Become proficient in frontend development
+
+## 📅 Progress
+
+* **Day 01:** Keyboard Input Display ⌨️
+* **Day 02:** Custom File Upload Button 📁
+
+## 🛠 Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+## 💡 About This Repo
+
+Each folder represents a day of learning and contains:
+
+* Source code
+* Mini project
+* Notes and learnings
+
+## 🚀 Future Plans
+
+* Build more interactive UI projects
+* Learn advanced JavaScript concepts
+* Move towards React and full-stack development
+
+---
+
+✨ Consistency over perfection — learning step by step.

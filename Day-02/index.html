@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom INPUT File Handling</title>
+</head>
+<style>
+     *{
+            margin:0;
+            padding:0;
+            box-sizing: border-box;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        html,body{
+            width: 100%;
+            height: 100%;
+        }
+        #main{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width:100%;
+            height: 100%;
+            background-color: #222;
+            
+        }
+    input{
+        display: none;
+    }
+    #btn{
+        padding: 12px 22px;
+        border-radius: 5px;
+        background-color: red;
+        color: white;
+    }
+    #btn:hover{
+        background-color: rgb(80, 11, 11);
+    }
+</style>
+<body>
+    <div id="main">
+        <input type="file" id="fileinp">
+        <div id="btn">Upload File</div>
+    </div>
+    <script src="script.js"></script>
+    
+</body>
+</html>
