@@ -11,8 +11,14 @@ This repository documents my daily progress while learning JavaScript through ha
 
 ## 📅 Progress
 
-* **Day 01:** Keyboard Input Display ⌨️
-* **Day 02:** Custom File Upload Button 📁
+📅 Day 01: Keyboard Input Display ⌨️
+📅 Day 02: Custom File Upload Button 📁
+📅 Day 03: Mouse Events Exploration 🖱️
+📅 Day 04: Event Object & Bubbling 🌊
+📅 Day 05: Event Bubbling & Capturing Demo 🔁
+📅 Day 06: Form Validation (Regex Based) 📄
+📅 Day 07: Timers & Intervals ⏱️
+
 
 ## 🛠 Tech Stack
 
